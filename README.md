@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://tadeoz24.github.io/NFT-Preview-Card-Component/](https://tadeoz24.github.io/NFT-Preview-Card-Component/)
+- Live Site URL: [https://tadeoz24.github.io/Order-Summary-Component/](https://tadeoz24.github.io/Order-Summary-Component/)
 
 ## My process
 
