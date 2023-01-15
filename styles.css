@@ -248,4 +248,55 @@ blockquote {
   color: #382ae1;
   margin-left: 68.81px;
   margin-top: 12px;
+  cursor: pointer;
+}
+
+.price_container a:hover {
+  text-decoration: none;
+  color: #766cf1;
+}
+
+.payment {
+  width: 354px;
+  height: 50px;
+  background: #382ae1;
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
+  border-radius: 11px;
+  margin: 32px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.payment:hover {
+  background: #766cf1;
+}
+
+.payment h2 {
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.order {
+  width: 96px;
+  height: 20px;
+  margin: 32px auto;
+  cursor: pointer;
+}
+
+.order h3 {
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 20px;
+  color: #717fa6;
+}
+.order h3:hover {
+  color: #1f2e55;
 }
